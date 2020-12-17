@@ -18,6 +18,7 @@ ob_start();
       <link href="css/style-body.css" rel="stylesheet">
       <link href="css/style2.css" rel="stylesheet">
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+	<link rel="icon" href="images/resource/imageselection.png" type="image/x-icon">
 
 </head>
 
